@@ -1,0 +1,1 @@
+Die Einstellungen im GDT Export in Labgate müssen so eingerichtet sein, als wären sie für Albis angelegt (siehe Anleitung bei vireq).
